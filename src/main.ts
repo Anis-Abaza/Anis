@@ -9,7 +9,7 @@ const apm = initApm({
   serviceName: 'test',
 
   // Set custom APM Server URL (default: http://localhost:8200)
-  serverUrl: 'http://172.30.121.140:8200',
+  serverUrl: 'http://172.30.194.23:8200',
 
   // Set service version (required for sourcemap feature)
   serviceVersion: ''
